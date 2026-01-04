@@ -1,2 +1,31 @@
 # love
-Listing objects very efficiently
+Listing objects very [efficiently](efficiently)
+
+
+LOVE(1) User Commands LOVE(1)
+
+NAME
+       love - listing objects very efficiently
+
+SYNOPSIS
+       love [OPTION]... [FILE]...
+
+DESCRIPTION
+       love lists objects efficiently.
+
+       When invoked without arguments, love reminds you that
+       not everything needs parameters.
+
+       Love is recursive.
+       Love respects permissions.
+       Love never follows broken symlinks.
+
+EXIT STATUS
+       0 if love was found
+       1 otherwise
+
+AUTHOR
+       Written with ❤️ for Unix users.
+
+SEE ALSO
+       ls(1), tree(1), find(1), fortune(6)
